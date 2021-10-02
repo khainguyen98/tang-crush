@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'hà xinh đẹp à!',
     introDesc: `Anh tạo cái này để hỏi em, nhớ trả lời thật đó nhé :DDD`,
-    btnIntro: 'hihi',
+    btnIntro: 'okilaala',
     title: 'Nếu như em không trả lời mà thoát ra thì tức là mai em muốn đi ăn bánh gà cùng anh nhá :V 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    desc: 'Nào cố gắng nhaa anh biết em làm được mà ',
     btnYes: 'Oki em đồng ý <33',
     btnNo: 'Anh bị ngáo à :3',
     question:'Nghỉ thui hà ơi mai cố gắng nha mai gặp anh ',
