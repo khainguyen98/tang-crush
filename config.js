@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Anh tạo cái này để hỏi em, nhớ trả lời thật đó nhé :DDD`,
     btnIntro: 'okilaala',
     title: 'Nếu như em không trả lời mà thoát ra thì tức là mai em muốn đi ăn bánh gà cùng anh nhá :V 😙',
-    desc: 'Nào cố gắng nhaa anh biết em làm được mà ',
+    desc: 'Nào cố gắng nhaa anh biết em làm được mà giờ ngủ thoi nhá mai em có sức để phỏng vấn và đi chơi với anh nữa ',
     btnYes: 'Oki em đồng ý <33',
     btnNo: 'Anh bị ngáo à :3',
     question:'Nghỉ thui hà ơi mai cố gắng nha mai gặp anh ',
