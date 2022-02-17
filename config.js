@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Ai cũng có thể yêu em lúc mặt trời
     tỏa nắng nhưng bão tố mới là nơi tìm
     ra được người thực sự quan tâm em :> `,
-    btnIntro: 'Vânghihi',
+    btnIntro: 'Vâng hihi',
     title: 'Cuộc đời này không giống như một bộ phim cho mình nhiều lần gặp gỡ 😙',
     desc: 'Để cho duyên mình được lỡ hà có đồng ý làm nữ chính trong cuộc đời anh không? ',
     btnYes: 'Vâng em đồng ý <33',
