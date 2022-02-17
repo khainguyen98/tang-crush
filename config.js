@@ -1,16 +1,19 @@
 const CONFIG = {
-    introTitle: 'vân xinh đẹp à!',
-    introDesc: `Anh tạo cái này để hỏi em, nhớ trả lời thật đó nhé :DDD`,
-    btnIntro: 'okilaala',
-    title: 'Nếu như em không trả lời mà thoát ra thì tức là mai em muốn đi ăn bánh gà cùng anh nhá:V 😙',
-    desc: 'Nào cố gắng nhaa anh biết em làm được mà giờ ngủ thoi nhá mai em có sức để phỏng vấn và đi chơi với anh nữa ',
-    btnYes: 'Oki em đồng ý <33',
-    btnNo: 'Anh bị ngáo à :3',
-    question:'Nghỉ thui hà ơi mai cố gắng nha mai gặp anh ',
+    introTitle: 'hà à!',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: 'hihi',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Vẫn cứ là thích anh <33',
+    btnNo: 'Không, Anh trai à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Oki vậy mai anh qua nhaaaa <33333333',
-    mess: 'Anh biết mà 🥰. mai em phải cố gắng phỏng vấn oki nhé 😘😘',
-    messDesc: 'vậy mai anh qua đưa em đi luôn .',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'mai anh qua đưa cháo cho em ăn nha bé iu <3.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https:https://www.facebook.com/khainguyen27/
 }
