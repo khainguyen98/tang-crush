@@ -1,14 +1,13 @@
 const CONFIG = {
-    introTitle: 'hà à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
+    introTitle: 'bé hà xinh đẹp à!',
+    introDesc: `Ai cũng có thể yêu em lúc mặt trời
+    tỏa nắng nhưng bão tố mới là nơi tìm
+    ra được người thực sự quan tâm em :> `,
+    btnIntro: 'Vâng hihi',
+    title: 'Cuộc đời này không giống như một bộ phim cho mình nhiều lần gặp gỡ 😙',
+    desc: 'Để cho duyên mình được lỡ hà có đồng ý làm nữ chính trong cuộc đời anh không? ',
+    btnYes: 'Vâng em đồng ý <33',
+    btnNo: 'Không, em chọn Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
